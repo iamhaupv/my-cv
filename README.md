@@ -1,3 +1,5 @@
+Nguồn coppy https://github.com/hocchudong/thuctap032016/blob/master/README.md?plain=1
+
 ## Git và Github cho sysadmin
 
 ###Mục lục
